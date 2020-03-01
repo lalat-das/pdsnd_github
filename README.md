@@ -11,3 +11,5 @@ segrigate.py
 
 ### Credits
 Asish Bhai 
+
+Chnage no.2
