@@ -33,3 +33,6 @@ if __name__ == '__main__':
     print("I am done with population")
     segrigate(final_dict)
     print("Done with populatting file in dir")
+    print("1st chnages for GIT")
+    print("2nd changes for GIT")
+    
