@@ -1,15 +1,13 @@
 ### Date created
-Include the date you created this project and README file.
+1 March 2020
 
-### Project Title
-Replace the Project Title
+### GIT Experiment
 
 ### Description
-Describe what your project is about and what it does
+This is a GIT to experiment from command line.
 
 ### Files used
-Include the files used
+segrigate.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Asish Bhai 
